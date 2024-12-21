@@ -94,3 +94,30 @@ main{
 .abt-info{
     text-align: center;
 }
+.skills-container{
+    display: flex;
+    gap: 25px;
+}
+.skill{
+    padding: 30px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgb(207, 206, 206);
+}
+.skill-description{
+    color: #757575;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+}
+
+.resume-collumn-title{
+    color: #474747;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    font-weight: 700px;
+}
+.Resume-container{
+    display: flex;
+}
